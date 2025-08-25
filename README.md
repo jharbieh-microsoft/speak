@@ -1,5 +1,3 @@
-<div align="center">
-
 # speak
 
 Small .NET 6 console sample that demonstrates Windows text‑to‑speech (System.Speech) with both interactive and command‑line driven usage plus optional cross‑platform Azure AI Speech integration.
@@ -11,8 +9,6 @@ Core capabilities:
 4. Optional: write speech to a WAV file while also playing it live
 5. Adjust speaking rate & volume
 6. Use Azure AI Speech (`--azure`) for cross‑platform neural voices & SSML
-
-</div>
 
 ## TL;DR
 Build & run (Windows, .NET 6 SDK installed):
